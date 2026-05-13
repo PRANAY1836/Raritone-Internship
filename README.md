@@ -127,6 +127,4 @@ This internship task helped strengthen understanding of:
 - real-time computer vision processing
 - AI/ML workflow management
 
----
 
-This is an AI/ML Internship practical assignment focused on Human Pose Detection, Body Measurement Research, and AI-based Fashion Technology Systems.

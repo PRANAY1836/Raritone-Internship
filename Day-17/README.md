@@ -22,19 +22,19 @@ Study the role of 3D avatar generation and human body reconstruction in Virtual 
 ## Workflow
 
 User Image  
-↓  
+    ↓  
 Human Detection  
-↓  
+    ↓  
 Pose Estimation  
-↓  
+    ↓  
 Body Shape Analysis  
-↓  
+    ↓  
 3D Mesh Reconstruction  
-↓  
+    ↓  
 Texture Mapping  
-↓  
+    ↓  
 Avatar Generation  
-↓  
+    ↓  
 Virtual Try-On System
 
 ---

@@ -1,4 +1,4 @@
-# AI/ML Internship — Research
+# AI/ML Internship — Project Research
 
 ## AI-Based Virtual Try-On and Fashion Recommendation System
 

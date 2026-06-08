@@ -1,4 +1,4 @@
-# AI/ML Internship — Cross-Functional Team Research
+# AI/ML Internship — Research
 
 ## AI-Based Virtual Try-On and Fashion Recommendation System
 
